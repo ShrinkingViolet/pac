@@ -2605,7 +2605,7 @@ var hasOwnProperty = Object.hasOwnProperty;
 
 function FindProxyForURL(url, host) {
     if (host == "www.so.com") {
-        return proxy;
+        return direct;
     }
 
     var suffix;
