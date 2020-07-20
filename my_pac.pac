@@ -1241,6 +1241,7 @@ var domains = {
     "listorious.com": 1,
     "littlebigdetails.com": 1,
     "liu.lu": 1,
+    "liuli.in":1,
     "liudejun.com": 1,
     "liuhanyu.com": 1,
     "liujianshu.com": 1,
