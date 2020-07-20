@@ -1,3 +1,5 @@
+// http://pac.itzmx.com
+
 var proxy = "SOCKS5 127.0.0.1:1080;SOCKS5 127.0.0.1:10800;";
 
 var domains = {
@@ -2605,7 +2607,7 @@ var hasOwnProperty = Object.hasOwnProperty;
 
 function FindProxyForURL(url, host) {
     if (host == "www.so.com") {
-        return direct;
+        return "PROXY 360.itzmx.com:80";
     }
 
     var suffix;
@@ -2614,7 +2616,7 @@ function FindProxyForURL(url, host) {
         suffix = host.substring(pos + 1);
         if (suffix == "360.cn")
             if (url.indexOf('http://') == 0)
-                return direct;
+                return "PROXY 360.itzmx.com:80";
         if (hasOwnProperty.call(domains, suffix)) {
             return proxy;
         }
