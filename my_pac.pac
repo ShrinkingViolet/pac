@@ -1,5 +1,3 @@
-// http://pac.itzmx.com
-
 var proxy = "SOCKS5 127.0.0.1:1080;SOCKS5 127.0.0.1:10800;";
 
 var domains = {
