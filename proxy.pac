@@ -1085,6 +1085,7 @@ var domains = {
     "initiativesforchina.org": 1,
     "inmediahk.net": 1,
     "innermongolia.org": 1,
+    "inoreader.com":1,
     "instagram.com": 1,
     "instapaper.com": 1,
     "interestinglaugh.com": 1,
