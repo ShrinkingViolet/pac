@@ -1617,6 +1617,7 @@ var domains = {
     "pinoy-n.com": 1,
     "piring.com": 1,
     "pixelqi.com": 1,
+    "pixiv.net": 1,
     "pixnet.in": 1,
     "pixnet.net": 1,
     "pk.com": 1,
