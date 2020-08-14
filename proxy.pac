@@ -1,4 +1,4 @@
-var proxy = "SOCKS5 127.0.0.1:1080;";
+var proxy = "SOCKS5 127.0.0.1:7890;";
 
 var domains = {
     "pinterest.com": 1,
@@ -83,6 +83,7 @@ var domains = {
     "881903.com": 1,
     "888.com": 1,
     "89-64.org": 1,
+    "90mh.com": 1,
     "9001700.com": 1,
     "908taiwan.org": 1,
     "91porn.com": 1,
@@ -1726,6 +1727,7 @@ var domains = {
     "redtube.com": 1,
     "referer.us": 1,
     "reflectivecode.com": 1,
+    "reimu.net": 1,
     "relaxbbs.com": 1,
     "renminbao.com": 1,
     "renyurenquan.org": 1,
@@ -1968,6 +1970,7 @@ var domains = {
     "syx86.com": 1,
     "szbbs.net": 1,
     "t.co": 1,
+    "t.me": 1,
     "t35.com": 1,
     "t66y.com": 1,
     "taa-usa.org": 1,
@@ -2003,6 +2006,7 @@ var domains = {
     "techlifeweb.com": 1,
     "techparaiso.com": 1,
     "teck.in": 1,
+    "tele.me": 1,
     "telecomspace.com": 1,
     "tenacy.com": 1,
     "theampfactory.com": 1,
@@ -2051,6 +2055,7 @@ var domains = {
     "tiananmenuniv.net": 1,
     "tiandixing.org": 1,
     "tianhuayuan.com": 1,
+    "tianshit.com": 1,
     "tiantibooks.org": 1,
     "tianzhu.org": 1,
     "tibet.at": 1,
