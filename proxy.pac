@@ -2434,6 +2434,7 @@ var domains = {
     "wikiwiki.jp": 1,
     "williamhill.com": 1,
     "willw.net": 1,
+    "windows.net": 1,
     "windowsphoneme.com": 1,
     "winwhispers.info": 1,
     "wiredbytes.com": 1,
