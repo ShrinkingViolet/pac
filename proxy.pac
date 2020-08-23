@@ -1517,6 +1517,7 @@ var domains = {
     "observechina.net": 1,
     "october-review.org": 1,
     "offbeatchina.com": 1,
+    "office.com": 1,
     "ogaoga.org": 1,
     "oiktv.com": 1,
     "oizoblog.com": 1,
