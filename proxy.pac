@@ -1254,6 +1254,7 @@ var domains = {
     "liuhanyu.com": 1,
     "liujianshu.com": 1,
     "liuxiaotong.com": 1,
+    "live.com": 1,
     "liveleak.com": 1,
     "livestation.com": 1,
     "livestream.com": 1,
