@@ -1,6 +1,7 @@
 var proxy = "SOCKS5 127.0.0.1:7890;";
 
 var domains = {
+    "steamcommunity.com": 1,
     "pinterest.com": 1,
     "download.kolor.com": 1,
     "messenger.com": 1,
@@ -1186,6 +1187,7 @@ var domains = {
     "kingdomsalvation.org": 1,
     "kinghost.com": 1,
     "kissbbao.cn": 1,
+    "kkgal.com":1 ,
     "kl.am": 1,
     "klip.me": 1,
     "knowledgerush.com": 1,
@@ -1336,6 +1338,7 @@ var domains = {
     "mhradio.org": 1,
     "michaelanti.com": 1,
     "michaelmarketl.com": 1,
+    "microsoft.com": 1,
     "middle-way.net": 1,
     "mihua.org": 1,
     "mimivip.com": 1,
@@ -1829,6 +1832,7 @@ var domains = {
     "shapeservices.com": 1,
     "sharebee.com": 1,
     "sharecool.org": 1,
+    "sharepoint.com": 1,
     "sharkdolphin.com": 1,
     "shaunthesheep.com": 1,
     "sheikyermami.com": 1,
