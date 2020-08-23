@@ -193,6 +193,7 @@ var domains = {
     "awardwinningfjords.com": 1,
     "awflasher.com": 1,
     "axureformac.com": 1,
+    "azure.com": 1,
     "baby-kingdom.com": 1,
     "backchina.com": 1,
     "backtotiananmen.com": 1,
