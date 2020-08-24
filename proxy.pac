@@ -1,4 +1,4 @@
-var proxy = "SOCKS5 127.0.0.1:10808;";
+var proxy = "SOCKS5 127.0.0.1:1080;";
 
 var domains = {
     "steamcommunity.com": 1,
