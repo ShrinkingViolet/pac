@@ -114,6 +114,7 @@ var domains = {
     "aiweiweiblog.com": 1,
     "ajsands.com": 1,
     "akiba-online.com": 1,
+    "akinator.com": 1,
     "al-qimmah.net": 1,
     "alabout.com": 1,
     "alasbarricadas.org": 1,
