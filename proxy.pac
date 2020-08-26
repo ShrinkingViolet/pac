@@ -1926,6 +1926,7 @@ var domains = {
     "soundofhope.kr": 1,
     "soundofhope.org": 1,
     "soup.io": 1,
+    "south-plus.net": 1,
     "soupofmedia.com": 1,
     "sourceforge.net": 1,
     "sowiki.net": 1,
