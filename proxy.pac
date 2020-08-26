@@ -1342,6 +1342,7 @@ var domains = {
     "michaelanti.com": 1,
     "michaelmarketl.com": 1,
     "microsoft.com": 1,
+    "microsoftonline.com": 1,
     "middle-way.net": 1,
     "mihua.org": 1,
     "mimivip.com": 1,
