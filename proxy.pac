@@ -795,6 +795,7 @@ var domains = {
     "galenwu.com": 1,
     "game735.com": 1,
     "ganges.com": 1,
+    "gandi.net": 1,
     "gaoming.net": 1,
     "gaopi.net": 1,
     "gaozhisheng.net": 1,
