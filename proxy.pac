@@ -845,6 +845,7 @@ var domains = {
     "git-scm.com": 1,
     "github.com": 1,
     "github.io": 1,
+    "github-production-release-asset-2e65be.s3.amazonaws.com": 1,
     "givemesomethingtoread.com": 1,
     "glennhilton.com": 1,
     "globaljihad.net": 1,
