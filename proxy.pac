@@ -1189,6 +1189,7 @@ var domains = {
     "keso.cn": 1,
     "kickstarter.com": 1,
     "killwall.com": 1,
+    "kintohub.com": 1,
     "kingdomsalvation.org": 1,
     "kinghost.com": 1,
     "kissbbao.cn": 1,
