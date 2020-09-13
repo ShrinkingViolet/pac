@@ -1733,6 +1733,8 @@ var domains = {
     "rapidsharedata.com": 1,
     "rcinet.ca": 1,
     "rdio.com": 1,
+    "reable.cn": 1,
+    "reable.com": 1,
     "read100.com": 1,
     "readmoo.com": 1,
     "realraptalk.com": 1,
