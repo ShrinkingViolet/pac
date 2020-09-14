@@ -960,6 +960,7 @@ var domains = {
     "helpzhuling.org": 1,
     "heqinglian.net": 1,
     "here4news.com": 1,
+    "heroku.com": 1,
     "heungkongdiscuss.com": 1,
     "heywire.com": 1,
     "hgseav.com": 1,
