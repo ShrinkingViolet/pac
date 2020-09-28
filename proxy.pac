@@ -1329,6 +1329,7 @@ var domains = {
     "megaporn.com": 1,
     "megarotic.com": 1,
     "megavideo.com": 1,
+    "mega.nz": 1,
     "megurineluka.com": 1,
     "meirixiaochao.com": 1,
     "melon-peach.com": 1,
