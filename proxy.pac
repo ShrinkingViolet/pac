@@ -1986,6 +1986,7 @@ var domains = {
     "sydneytoday.com": 1,
     "sylfoundation.org": 1,
     "syncback.com": 1,
+    "syosetu.com": 1,
     "sysadmin1138.net": 1,
     "sysresccd.org": 1,
     "sytes.net": 1,
