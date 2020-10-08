@@ -1239,6 +1239,7 @@ var domains = {
     "liaowangxizang.net": 1,
     "lidecheng.com": 1,
     "lightbox.com": 1,
+    "lightnovel.us": 1,
     "limiao.net": 1,
     "line.me": 1,
     "linglingfa.com": 1,
