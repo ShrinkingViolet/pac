@@ -1139,6 +1139,7 @@ var domains = {
     "izihost.org": 1,
     "izles.net": 1,
     "jackjia.com": 1,
+    "javascript.info": 1,
     "japan-whores.com": 1,
     "jayparkinsonmd.com": 1,
     "jbtalks.cc": 1,
