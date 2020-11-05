@@ -203,6 +203,7 @@ var domains = {
     "baidu.jp": 1,
     "baixing.me": 1,
     "bannedbook.org": 1,
+    "bangumi.tv": 1,
     "bao.li": 1,
     "barenakedislam.com": 1,
     "basetimesheightdividedby2.com": 1,
