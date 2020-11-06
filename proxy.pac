@@ -1518,6 +1518,7 @@ var domains = {
     "nuvid.com": 1,
     "nuzcom.com": 1,
     "nvquan.org": 1,
+    "nvidia.com": 1,
     "nydus.ca": 1,
     "nysingtao.com": 1,
     "nyt.com": 1,
