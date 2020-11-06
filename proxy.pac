@@ -928,6 +928,7 @@ var domains = {
     "gtricks.com": 1,
     "gtloli.live": 1,
     "guancha.org": 1,
+    "guiacg.com": 1,
     "guishan.org": 1,
     "gun-world.net": 1,
     "gunsamerica.com": 1,
