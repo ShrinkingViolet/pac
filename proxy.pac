@@ -944,6 +944,7 @@ var domains = {
     "hackthatphone.net": 1,
     "hahlo.com": 1,
     "hanunyi.com": 1,
+    "haogal.com": 1,
     "hardsextube.com": 1,
     "hasaowall.com": 1,
     "have8.com": 1,
