@@ -926,6 +926,7 @@ var domains = {
     "gs-discuss.com": 1,
     "gstatic.com": 1,
     "gtricks.com": 1,
+    "gtloli.live": 1,
     "guancha.org": 1,
     "guishan.org": 1,
     "gun-world.net": 1,
