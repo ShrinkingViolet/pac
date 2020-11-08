@@ -1629,6 +1629,7 @@ var domains = {
     "perfspot.com": 1,
     "perlhowto.com": 1,
     "philly.com": 1,
+    "phccdn.com": 1,
     "phonegap.com": 1,
     "photofocus.com": 1,
     "phuquocservices.com": 1,
