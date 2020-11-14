@@ -1958,6 +1958,7 @@ var domains = {
     "sproutcore.com": 1,
     "squarespace.com": 1,
     "ssh91.com": 1,
+    "sstm.moe": 1,
     "stackfile.com": 1,
     "standupfortibet.org": 1,
     "starp2p.com": 1,
