@@ -1815,6 +1815,7 @@ var domains = {
     "savevid.com": 1,
     "say2.info": 1,
     "say-huahuo.com": 1,
+    "sayhuahuo.com": 1,
     "sciencemag.org": 1,
     "scmp.com": 1,
     "scmpchinese.com": 1,
