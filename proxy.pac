@@ -1309,6 +1309,7 @@ var domains = {
     "maiplus.com": 1,
     "makemymood.com": 1,
     "malaysiakini.com": 1,
+    "mangafunc.fun": 1,
     "marc.info": 1,
     "marco.org": 1,
     "marguerite.su": 1,
