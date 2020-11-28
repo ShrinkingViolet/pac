@@ -452,6 +452,7 @@ var domains = {
     "conoyo.com": 1,
     "contactmagazine.net": 1,
     "convio.net": 1,
+    "copymanga.com": 1,
     "cookingtothegoodlife.com": 1,
     "coolaler.com": 1,
     "coolder.com": 1,
