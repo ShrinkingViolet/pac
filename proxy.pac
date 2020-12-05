@@ -2037,6 +2037,7 @@ var domains = {
     "tbsseattle.org": 1,
     "tchrd.org": 1,
     "tcno.net": 1,
+    "tdesktop.com": 1,
     "teamseesmic.com": 1,
     "teashark.com": 1,
     "techlifeweb.com": 1,
