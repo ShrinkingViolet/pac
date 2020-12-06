@@ -1714,6 +1714,7 @@ var domains = {
     "purevpn.com": 1,
     "putlocker.com": 1,
     "pwned.com": 1,
+    "pximg.net": 1,
     "python.com": 1,
     "qanote.com": 1,
     "qi-gong.me": 1,
