@@ -1795,6 +1795,7 @@ var domains = {
     "rsf-chinese.org": 1,
     "rsf.org": 1,
     "rssmeme.com": 1,
+    "rsshub.app": 1,
     "ruanyifeng.com": 1,
     "rushbee.com": 1,
     "rutube.ru": 1,
