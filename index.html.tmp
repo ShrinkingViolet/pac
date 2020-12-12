@@ -1,0 +1,41 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Proxy Rules</title>
+    <style>
+        body {
+            margin: 0;
+            width: 100%;
+            background-color: #F5F5F6;
+        }
+
+        #pics {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .entry {
+            display: inline-block;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>ShViolet's Proxy_Rules</h1>
+    <table>
+        <tr>
+            <td class="code">
+                <pre><span class="line"><span class="string">var</span> <span class="string">proxy</span> <span class="string">=</span> <span class="string">&quot;SOCKS5 127.0.0.1:1080;&quot;</span><span class="string">;</span></span><br><span class="line"></span><br><span class="line"><span class="string">var</span> <span class="string">domains</span> <span class="string">=</span> &#123;</span><br>$$--$$<span class="line">    <span class="attr">&quot;zyzc9.com&quot;:</span> <span class="number">1</span></span><br><span class="line">&#125;<span class="string">;</span></span><br><span class="line"></span><br><span class="line"><span class="string">var</span> <span class="string">direct</span> <span class="string">=</span> <span class="string">&#x27;DIRECT;&#x27;</span><span class="string">;</span></span><br><span class="line"></span><br><span class="line"><span class="string">var</span> <span class="string">hasOwnProperty</span> <span class="string">=</span> <span class="string">Object.hasOwnProperty;</span></span><br><span class="line"></span><br><span class="line"><span class="string">function</span> <span class="string">FindProxyForURL(url,</span> <span class="string">host)</span> &#123;</span><br><span class="line">    <span class="string">if</span> <span class="string">(host</span> <span class="string">==</span> <span class="string">&quot;www.so.com&quot;</span><span class="string">)</span> &#123;</span><br><span class="line">        <span class="string">return</span> <span class="string">direct;</span></span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    <span class="string">var</span> <span class="string">suffix;</span></span><br><span class="line">    <span class="string">var</span> <span class="string">pos</span> <span class="string">=</span> <span class="string">host.lastIndexOf(&#x27;.&#x27;);</span></span><br><span class="line">    <span class="string">while</span> <span class="string">(1)</span> &#123;</span><br><span class="line">        <span class="string">suffix</span> <span class="string">=</span> <span class="string">host.substring(pos</span> <span class="string">+</span> <span class="number">1</span><span class="string">);</span></span><br><span class="line">        <span class="string">if</span> <span class="string">(suffix</span> <span class="string">==</span> <span class="string">&quot;360.cn&quot;</span><span class="string">)</span></span><br><span class="line">            <span class="string">if</span> <span class="string">(url.indexOf(&#x27;http://&#x27;)</span> <span class="string">==</span> <span class="number">0</span><span class="string">)</span></span><br><span class="line">                <span class="string">return</span> <span class="string">direct;</span></span><br><span class="line">        <span class="string">if</span> <span class="string">(hasOwnProperty.call(domains</span>, <span class="string">suffix))</span> &#123;</span><br><span class="line">            <span class="string">return</span> <span class="string">proxy;</span></span><br><span class="line">        &#125;</span><br><span class="line">        <span class="string">if</span> <span class="string">(pos</span> <span class="string">&lt;=</span> <span class="number">0</span><span class="string">)</span> &#123;</span><br><span class="line">            <span class="string">break;</span></span><br><span class="line">        &#125;</span><br><span class="line">        <span class="string">pos</span> <span class="string">=</span> <span class="string">host.lastIndexOf(&#x27;.&#x27;</span>, <span class="string">pos</span> <span class="bullet">-</span> <span class="number">1</span><span class="string">);</span></span><br><span class="line">    &#125;</span><br><span class="line">    <span class="string">return</span> <span class="string">direct;</span></span><br><span class="line">&#125;</span><br><span class="line"></span><br></pre>
+            </td>
+        </tr>
+    </table>
+</body>
+
+</html>
