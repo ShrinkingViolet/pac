@@ -1547,6 +1547,7 @@ var domains = {
     "omnitalk.com": 1,
     "omy.sg": 1,
     "on.cc": 1,
+    "onesignal.com":1 ,
     "onlylady.cn": 1,
     "onmoon.com": 1,
     "onmoon.net": 1,
