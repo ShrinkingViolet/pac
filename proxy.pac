@@ -2655,17 +2655,10 @@ var direct = 'DIRECT;';
 var hasOwnProperty = Object.hasOwnProperty;
 
 function FindProxyForURL(url, host) {
-    if (host == "www.so.com") {
-        return direct;
-    }
-
     var suffix;
     var pos = host.lastIndexOf('.');
     while (1) {
         suffix = host.substring(pos + 1);
-        if (suffix == "360.cn")
-            if (url.indexOf('http://') == 0)
-                return direct;
         if (hasOwnProperty.call(domains, suffix)) {
             return proxy;
         }
