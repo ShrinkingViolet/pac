@@ -1617,6 +1617,7 @@ var domains = {
     "pdproxy.com": 1,
     "peacefire.org": 1,
     "peacehall.com": 1,
+    "pea3nut": 1,
     "peeasian.com": 1,
     "peerpong.com": 1,
     "pekingduck.org": 1,
