@@ -2117,6 +2117,7 @@ var domains = {
     "tiffanyarment.com": 1,
     "time.com": 1,
     "tiney.com": 1,
+    "tineye.com": 1,
     "tinychat.com": 1,
     "tinypaste.com": 1,
     "tistory.com": 1,
