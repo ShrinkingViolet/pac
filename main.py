@@ -10,6 +10,8 @@ with open('proxy.pac','w') as f:
         wt = '''    "''' + i + '''": 1,\n''' + wt
     with open('proxy.pac.tmp', 'r') as t:
         f.write(t.read().replace('$$--$$', wt))
+    with open('database.qaq','w') as t:
+        t.write(wt)
 
 with open('index.html', 'w') as f:
     wt = ''

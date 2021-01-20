@@ -2637,6 +2637,7 @@ var domains = {
     "zkaip.com": 1,
     "zlib.net": 1,
     "zmw.cn": 1,
+    "zodgame.xyz": 1,
     "zoho.com": 1,
     "zomobo.net": 1,
     "zonaeuropa.com": 1,
